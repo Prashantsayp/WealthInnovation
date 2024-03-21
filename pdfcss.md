@@ -1,0 +1,6 @@
+.pdf-container {
+    width: 100%;
+    max-width: 800px; /* Adjust as needed */
+    margin: 0 auto;
+    padding: 20px;
+}
